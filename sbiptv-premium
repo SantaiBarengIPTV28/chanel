@@ -8,8 +8,8 @@ https://r2---sn-2uuxa3vh-jb3y.googlevideo.com/videoplayback?expire=1619350524&ei
  
  
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/wTm62e9G1jgoaj3KTkOGnwLVOIs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/709546.png" tvg-id="RIYAN.e490321c865d3c9f18ddb5a0cdee3e79.SHINTA" tvg-name" TRANS TV" group-title="Nasional", TRANS TV
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8 
- 
+http://210.210.155.35:80/session/c6016ff6-2ecf-11eb-9242-b82a72d63267/x6bnqe/s/s252/01.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sZw2i9ccZgdDgKzXwiuuvs2gfFs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/5fd39e.png" tvg-id="RIYAN.6434336b1ab635929923b9e1b4f935e8.SHINTA" tvg-name" MNC" group-title="Nasional", MNC
 https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
  
