@@ -49,7 +49,8 @@ http://210.210.155.35:80/session/9d1b640c-2ed9-11eb-a7a0-c81f66f89318/qwr9ew/s/s
  
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="Nasional", TVONE 
 http://210.210.155.35/qwr9ew/s/s105/02.m3u8
- 
+#EXTINF:-1 group-title="Nasional",iNews
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157579 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gXL66eqWjcsfy6MRv_Midv048UE=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/0002e6.png" tvg-id="RIYAN.1e3c36eb8307a40a9f9e38d023757173.SHINTA" tvg-name" Kompas TV" group-title="Nasional", Kompas TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
  
