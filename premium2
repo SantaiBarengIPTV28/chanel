@@ -52,29 +52,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1622746821~acl=/hls-p/ingest_5409_
  
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/3qJzB7DThwYsbWIrCcCtAnWHoTM=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/6d4e21.png" tvg-id="RIYAN.21dab64a6e5610d23ee813ac04e2ed7b.SHINTA" tvg-name" Metro TV" group-title="Nasional", Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
-
-
-#EXTINF:70 group-title="Korea TV",Youtube Chanel Santai Bareng IPTV
-https://r2---sn-2uuxa3vh-jb3y.googlevideo.com/videoplayback?expire=1619350524&ei=nP-EYLjZKqSgjuMPkbm9kAk&ip=36.70.38.153&id=o-AJqS6K-XyG6fajgVE7HpPdYyEu4Q_crhXm3sA9l0j7G4&itag=22&source=youtube&requiressl=yes&mh=Vl&mm=31%2C29&mn=sn-2uuxa3vh-jb3y%2Csn-npoe7nek&ms=au%2Crdu&mv=m&mvi=2&pl=20&initcwndbps=580000&vprv=1&mime=video%2Fmp4&ns=h8HEdSz4b_X3789UfP_QjmUF&ratebypass=yes&dur=70.426&lmt=1619009238418678&mt=1619328761&fvip=2&fexp=24001373%2C24007246&c=WEB&txp=6216222&n=kUCPgIVpW669ewmcpr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgFnqpFx2ZaiweervtgfzMPn48tEQclXgbQke-NVOSQVACIBLqdsEO1ATQpVkkwCzSivgWUdBxHhnxH2zdqXm_fFDw&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgWjbvjLiz3JwQ6VMJ2lZxjn0-HEeyju9nRz0kCFPbpJ4CIQC2LkEKSFt1s4840qAkcHyg1qT7znfoVfkbDk2T9mS4yw%3D%3D 
-
-#EXTINF:-1 tvg-id="" tvg-name="K Drama" tvg-logo="" group-title="Korea TV",K Drama
-http://iya.mba:8888/siingkat/BMBJh/35769
-#EXTINF:-1 tvg-id="Kplus.id" tvg-name="K Plus" tvg-logo="http://images2.useetv.com/logo_kplus_big1.png?v=1.0.0.0" group-title="Korea TV",K Plus
-http://iya.mba:8888/siingkat/BMBJh/18
-#EXTINF:-1 tvg-id="" tvg-name="KBS World HD" tvg-logo="" group-title="Korea TV",KBS World HD
-http://iya.mba:8888/siingkat/BMBJh/15057
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="S GEM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpM4ePgskZ0MwYEYal1_C-4H9NYHSwFl5ZHbhvWuoTzdDKYM0s" group-title="Korea TV",S GEM HD
-http://iya.mba:8888/siingkat/BMBJh/770
-#EXTINF:-1 tvg-id="SonyOne.id" tvg-name="Sony ONE" tvg-logo="http://images2.useetv.com/logo_sone_big1.png?v=1.0.0.0" group-title="Korea TV",Sony ONE
-http://iya.mba:8888/siingkat/BMBJh/19
-#EXTINF:-1 tvg-id="ABC.au" tvg-name="TVN ID" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/395_300.png" group-title="Korea TV",TVN ID
-http://iya.mba:8888/siingkat/BMBJh/767
-#EXTINF:-1 tvg-id="TVNMovies.id" tvg-name="tVN Movies HD" tvg-logo="https://pbs.twimg.com/profile_images/805623069490364416/S08BM74i_400x400.jpg" group-title="Korea TV",tVN Movies HD
-http://iya.mba:8888/siingkat/BMBJh/927
-
-
-
-
+ 
  
 
 #EXTINF:70 group-title="Entertainment",Youtube Chanel Santai Bareng IPTV
@@ -135,46 +113,6 @@ http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeowild.png" group-title="Knowledge", Nat Geo Wild
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Animal Planet HD" tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/channel-logo-animal-planet-1.png" group-title="Knowledge",Animal Planet HD
-http://iya.mba:8888/siingkat/BMBJh/358
-#EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Knowledge",BBC Earth
-http://iya.mba:8888/siingkat/BMBJh/385
-#EXTINF:-1 tvg-id="CrimeInvestigation.id" tvg-name="Crime Investigation" tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png" group-title="Knowledge",Crime Investigation
-http://iya.mba:8888/siingkat/BMBJh/332
-#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Learning" tvg-logo="" group-title="Knowledge",Da Vinci Learning
-http://iya.mba:8888/siingkat/BMBJh/36729
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Asia" tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="Knowledge",Discovery Asia
-http://iya.mba:8888/siingkat/BMBJh/779
-#EXTINF:-1 tvg-id="DiscoveryAsia.my" tvg-name="Discovery Channel HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png" group-title="Knowledge",Discovery Channel HD
-http://iya.mba:8888/siingkat/BMBJh/165
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/200px-Discovery_Science_2017_Logo.svg.png" group-title="Knowledge",Discovery Science HD
-http://iya.mba:8888/siingkat/BMBJh/408
-#EXTINF:-1 tvg-id="DiscoveryShed.uk" tvg-name="Discovery Shed" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Discovery_Shed.png/150px-Discovery_Shed.png" group-title="Knowledge",Discovery Shed
-http://iya.mba:8888/siingkat/BMBJh/333
-#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_turbo.png" group-title="Knowledge",Discovery Turbo
-http://iya.mba:8888/siingkat/BMBJh/462
-#EXTINF:-1 tvg-id="ABC.au" tvg-name="History FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png" group-title="Knowledge",History FHD
-http://iya.mba:8888/siingkat/BMBJh/8131
-#EXTINF:-1 tvg-id="ABC.au" tvg-name="History HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png" group-title="Knowledge",History HD
-http://iya.mba:8888/siingkat/BMBJh/718
-#EXTINF:-1 tvg-id="" tvg-name="Lingua Channel" tvg-logo="https://www.klikwarta.com/sites/default/files/inline-images/image003.png" group-title="Knowledge",Lingua Channel
-http://iya.mba:8888/siingkat/BMBJh/14944
-#EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="Knowledge",Love Nature 4K
-http://iya.mba:8888/siingkat/BMBJh/36767
-#EXTINF:-1 tvg-id="nationalgeographicchannelhd.id" tvg-name="Nat Geo HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png" group-title="Knowledge",Nat Geo HD
-http://iya.mba:8888/siingkat/BMBJh/96
-#EXTINF:-1 tvg-id="NatGeoPeople.id" tvg-name="Nat Geo People HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png" group-title="Knowledge",Nat Geo People HD
-http://iya.mba:8888/siingkat/BMBJh/455
-#EXTINF:-1 tvg-id="NatGeoWild.id" tvg-name="Nat Geo Wild HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="Knowledge",Nat Geo Wild HD
-http://iya.mba:8888/siingkat/BMBJh/97
-#EXTINF:-1 tvg-id="" tvg-name="Ruang Terampil" tvg-logo="" group-title="Knowledge",Ruang Terampil
-http://iya.mba:8888/siingkat/BMBJh/36731
-#EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Smithsonian_Channel.png/220px-Smithsonian_Channel.png" group-title="Knowledge",Smithsonian Channel
-http://iya.mba:8888/siingkat/BMBJh/35998
-#EXTINF:-1 tvg-id="" tvg-name="TV Edukasi" tvg-logo="" group-title="Knowledge",TV Edukasi
-http://iya.mba:8888/siingkat/BMBJh/36732
-
-
 #EXTINF:-1  group-title="Knowledge",Nasa
 http://a92cb231-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/6540154/playlist.m3u8?authType=IP_BASED_IDENTITY&appType=12&appVersion=1&cdnHost=uhs-akamai.ustream.tv/&sgn=e02c631056eedfa1f9ba417db7dbc9057065fe72
 #EXTINF:-1 tvg-id="natgeo" tvg-logo="http://kamiselaluada.com/img/ngc.png" group-title="Knowledge", National Geographic (V)
@@ -224,55 +162,7 @@ https://r2---sn-2uuxa3vh-jb3y.googlevideo.com/videoplayback?expire=1619350524&ei
 
 #EXTINF:70 group-title="Kids",Youtube Chanel Santai Bareng IPTV
 https://r2---sn-2uuxa3vh-jb3y.googlevideo.com/videoplayback?expire=1619350524&ei=nP-EYLjZKqSgjuMPkbm9kAk&ip=36.70.38.153&id=o-AJqS6K-XyG6fajgVE7HpPdYyEu4Q_crhXm3sA9l0j7G4&itag=22&source=youtube&requiressl=yes&mh=Vl&mm=31%2C29&mn=sn-2uuxa3vh-jb3y%2Csn-npoe7nek&ms=au%2Crdu&mv=m&mvi=2&pl=20&initcwndbps=580000&vprv=1&mime=video%2Fmp4&ns=h8HEdSz4b_X3789UfP_QjmUF&ratebypass=yes&dur=70.426&lmt=1619009238418678&mt=1619328761&fvip=2&fexp=24001373%2C24007246&c=WEB&txp=6216222&n=kUCPgIVpW669ewmcpr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgFnqpFx2ZaiweervtgfzMPn48tEQclXgbQke-NVOSQVACIBLqdsEO1ATQpVkkwCzSivgWUdBxHhnxH2zdqXm_fFDw&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgWjbvjLiz3JwQ6VMJ2lZxjn0-HEeyju9nRz0kCFPbpJ4CIQC2LkEKSFt1s4840qAkcHyg1qT7znfoVfkbDk2T9mS4yw%3D%3D
-#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="Kids",Animax
-http://iya.mba:8888/siingkat/BMBJh/3
-#EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="Kids",Aniplus
-http://iya.mba:8888/siingkat/BMBJh/2
-#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="Kids",Baby First
-http://iya.mba:8888/siingkat/BMBJh/1204
-#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV" tvg-logo="https://mncvision.id/userfiles/image/channel/baby_tv.png" group-title="Kids",Baby TV
-http://iya.mba:8888/siingkat/BMBJh/296
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang ID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Kids",Boomerang ID
-http://iya.mba:8888/siingkat/BMBJh/305
-#EXTINF:-1 tvg-id="cartoonnetwork.id" tvg-name="Cartoon Network ID HD" tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="Kids",Cartoon Network ID HD
-http://iya.mba:8888/siingkat/BMBJh/680
-#EXTINF:-1 tvg-id="" tvg-name="CBeebies" tvg-logo="https://static.filmon.com/assets/channels/3191/extra_big_logo.png" group-title="Kids",CBeebies
-http://iya.mba:8888/siingkat/BMBJh/491
-#EXTINF:-1 tvg-id="DisneyChannel.id" tvg-name="Disney Channel" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="Kids",Disney Channel
-http://iya.mba:8888/siingkat/BMBJh/306
-#EXTINF:-1 tvg-id="DisneyChannel.id" tvg-name="Disney Channel ID" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="Kids",Disney Channel ID
-http://iya.mba:8888/siingkat/BMBJh/3479
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Disney Junior" tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="Kids",Disney Junior
-http://iya.mba:8888/siingkat/BMBJh/213
-#EXTINF:-1 tvg-id="" tvg-name="Disney UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="Kids",Disney UK
-http://iya.mba:8888/siingkat/BMBJh/2336
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/320px-Disney_XD_-_2015.svg.png" group-title="Kids",Disney XD
-http://iya.mba:8888/siingkat/BMBJh/104
-#EXTINF:-1 tvg-id="" tvg-name="Dream Works HD" tvg-logo="" group-title="Kids",Dream Works HD
-http://iya.mba:8888/siingkat/BMBJh/32529
-#EXTINF:-1 tvg-id="" tvg-name="Duck TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png" group-title="Kids",Duck TV
-http://iya.mba:8888/siingkat/BMBJh/1854
-#EXTINF:-1 tvg-id="" tvg-name="Dunia Anak" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png" group-title="Kids",Dunia Anak
-http://iya.mba:8888/siingkat/BMBJh/907
-#EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" group-title="Kids",Horee
-http://iya.mba:8888/siingkat/BMBJh/14106
-#EXTINF:-1 tvg-id="" tvg-name="My Kidz" tvg-logo="" group-title="Kids",My Kidz
-http://iya.mba:8888/siingkat/BMBJh/1483
-#EXTINF:-1 tvg-id="NickJrToo.uk" tvg-name="Nick Jr 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nick_Jr._2_logo.png/320px-Nick_Jr._2_logo.png" group-title="Kids",Nick Jr 2
-http://iya.mba:8888/siingkat/BMBJh/341
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr ID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="Kids",Nick Jr ID
-http://iya.mba:8888/siingkat/BMBJh/522
-#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="Nick Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/320px-Nicktoons_Network_logo_2009.svg.png" group-title="Kids",Nick Toons
-http://iya.mba:8888/siingkat/BMBJh/335
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon ID" tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="Kids",Nickelodeon ID
-http://iya.mba:8888/siingkat/BMBJh/962
-#EXTINF:-1 tvg-id="" tvg-name="Toonmax" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toonmax-tv-cn.png" group-title="Kids",Toonmax
-http://iya.mba:8888/siingkat/BMBJh/1116
-#EXTINF:-1 tvg-id="" tvg-name="XingXong" tvg-logo="" group-title="Kids",XingXong
-http://iya.mba:8888/siingkat/BMBJh/36764
-#EXTINF:-1 tvg-id="" tvg-name="Zoo Moo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/286px-ZooMoo_logo.svg.png" group-title="Kids",Zoo Moo HD
-http://iya.mba:8888/siingkat/BMBJh/14104
-
+ 
 #EXTINF:-1, group-title="Kids" tvg-logo="https://telegra.ph/file/8630ed8bde0bdfd0c3dbf.png",USA: Boomerang 
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7199
 #EXTINF:-1 group-title="Kids",Spacetoon
@@ -381,102 +271,6 @@ http://rr.dens.tv/h/h18/01.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6848
 #EXTINF:-1 group-title="Movies",Warner TV
 http://bonev2.xyz/playlist/usee-warner-new-bonetv.m3u8
-
-
-#EXTINF:70 group-title="Movie",Youtube Chanel Santai Bareng IPTV
-https://r2---sn-2uuxa3vh-jb3y.googlevideo.com/videoplayback?expire=1619350524&ei=nP-EYLjZKqSgjuMPkbm9kAk&ip=36.70.38.153&id=o-AJqS6K-XyG6fajgVE7HpPdYyEu4Q_crhXm3sA9l0j7G4&itag=22&source=youtube&requiressl=yes&mh=Vl&mm=31%2C29&mn=sn-2uuxa3vh-jb3y%2Csn-npoe7nek&ms=au%2Crdu&mv=m&mvi=2&pl=20&initcwndbps=580000&vprv=1&mime=video%2Fmp4&ns=h8HEdSz4b_X3789UfP_QjmUF&ratebypass=yes&dur=70.426&lmt=1619009238418678&mt=1619328761&fvip=2&fexp=24001373%2C24007246&c=WEB&txp=6216222&n=kUCPgIVpW669ewmcpr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgFnqpFx2ZaiweervtgfzMPn48tEQclXgbQke-NVOSQVACIBLqdsEO1ATQpVkkwCzSivgWUdBxHhnxH2zdqXm_fFDw&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgWjbvjLiz3JwQ6VMJ2lZxjn0-HEeyju9nRz0kCFPbpJ4CIQC2LkEKSFt1s4840qAkcHyg1qT7znfoVfkbDk2T9mS4yw%3D%3D 
-#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png" group-title="Entertainment",AXN
-http://iya.mba:8888/siingkat/BMBJh/9
-#EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png" group-title="Movie",Bioskop Indonesia
-http://iya.mba:8888/siingkat/BMBJh/908
-#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Extreme HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="Entertainment",Blue Ant Extreme HD
-http://iya.mba:8888/siingkat/BMBJh/811
-#EXTINF:-1 tvg-id="" tvg-name="CCM" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_22.png" group-title="Movie",CCM
-http://iya.mba:8888/siingkat/BMBJh/2118
-#EXTINF:-1 tvg-id="CelestialMovies.id" tvg-name="Celestial Movies" tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="Movie",Celestial Movies
-http://iya.mba:8888/siingkat/BMBJh/5
-#EXTINF:-1 tvg-id="" tvg-name="Cinema World" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="Movie",Cinema World
-http://iya.mba:8888/siingkat/BMBJh/1194
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_100.png" group-title="Movie",Cinemax FHD
-http://iya.mba:8888/siingkat/BMBJh/30185
-#EXTINF:-1 tvg-id="CineMax.id" tvg-name="Cinemax ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="Movie",Cinemax ID
-http://iya.mba:8888/siingkat/BMBJh/2156
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax SD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_100.png" group-title="Movie",Cinemax SD
-http://iya.mba:8888/siingkat/BMBJh/26599
-#EXTINF:-1 tvg-id="" tvg-name="FLIK HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png" group-title="Movie",FLIK HD
-http://iya.mba:8888/siingkat/BMBJh/29592
-#EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="FOX Action Movies FHD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="Movie",FOX Action Movies FHD
-http://iya.mba:8888/siingkat/BMBJh/1478
-#EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="FOX Action Movies HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="Movie",FOX Action Movies HD
-http://iya.mba:8888/siingkat/BMBJh/99
-#EXTINF:-1 tvg-id="FOXCrime.id" tvg-name="FOX Crime HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png" group-title="Movie",FOX Crime HD
-http://iya.mba:8888/siingkat/BMBJh/763
-#EXTINF:-1 tvg-id="" tvg-name="FOX Family Movies ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_410.png" group-title="Movie",FOX Family Movies ID
-http://iya.mba:8888/siingkat/BMBJh/14994
-#EXTINF:-1 tvg-id="FOX.id" tvg-name="FOX HD" tvg-logo="https://mncvision.id/userfiles/image/channel/fox_channel.png" group-title="Movie",FOX HD
-http://iya.mba:8888/siingkat/BMBJh/95
-#EXTINF:-1 tvg-id="FoxLife.id" tvg-name="FOX Life HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png" group-title="Movie",FOX Life HD
-http://iya.mba:8888/siingkat/BMBJh/94
-#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="FOX Movies HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_409.png" group-title="Movie",FOX Movies HD
-http://iya.mba:8888/siingkat/BMBJh/98
-#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="Movie",Galaxy Premium SD
-http://iya.mba:8888/siingkat/BMBJh/29603
-#EXTINF:-1 tvg-id="" tvg-name="Galaxy SD" tvg-logo="https://2.bp.blogspot.com/-1zfZ3rEhu5s/V9OB0jOkU7I/AAAAAAAAfUQ/A9F_Fl1q51k_ONOLTVDyIT8sU3WS2nxhACLcB/s1600/galaxy-channel-tv-logo.png" group-title="Movie",Galaxy SD
-http://iya.mba:8888/siingkat/BMBJh/29604
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family FHD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="Movie",HBO Family FHD
-http://iya.mba:8888/siingkat/BMBJh/30184
-#EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="Movie",HBO Family HD
-http://iya.mba:8888/siingkat/BMBJh/592
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family SD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="Movie",HBO Family SD
-http://iya.mba:8888/siingkat/BMBJh/26598
-#EXTINF:-1 tvg-id="" tvg-name="HBO FHD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png" group-title="Movie",HBO FHD
-http://iya.mba:8888/siingkat/BMBJh/1496
-#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="Movie",HBO HD
-http://iya.mba:8888/siingkat/BMBJh/210
-#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits FHD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="Movie",HBO Hits FHD
-http://iya.mba:8888/siingkat/BMBJh/11492
-#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movie",HBO Hits HD
-http://iya.mba:8888/siingkat/BMBJh/591
-#EXTINF:-1 tvg-id="" tvg-name="HBO Hits SD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="Movie",HBO Hits SD
-http://iya.mba:8888/siingkat/BMBJh/26596
-#EXTINF:-1 tvg-id="" tvg-name="HBO SD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="Movie",HBO SD
-http://iya.mba:8888/siingkat/BMBJh/26595
-#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature FHD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="Movie",HBO Signature FHD
-http://iya.mba:8888/siingkat/BMBJh/1498
-#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="Movie",HBO Signature HD
-http://iya.mba:8888/siingkat/BMBJh/873
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature SD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="Movie",HBO Signature SD
-http://iya.mba:8888/siingkat/BMBJh/26597
-#EXTINF:-1 tvg-id="HITS.id" tvg-name="HITS HD" tvg-logo="https://cms.cignal.tv/Upload/Images/Hits.png" group-title="Movie",HITS HD
-http://iya.mba:8888/siingkat/BMBJh/1195
-#EXTINF:-1 tvg-id="" tvg-name="Hits Movie SD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_169.png" group-title="Movie",Hits Movie SD
-http://iya.mba:8888/siingkat/BMBJh/957
-#EXTINF:-1 tvg-id="" tvg-name="IMC SD" tvg-logo="" group-title="Movie",IMC SD
-http://iya.mba:8888/siingkat/BMBJh/35484
-#EXTINF:-1 tvg-id="" tvg-name="IN: & Picture" tvg-logo="" group-title="Movie",IN: & Picture
-http://iya.mba:8888/siingkat/BMBJh/31875
-#EXTINF:-1 tvg-id="" tvg-name="IN: &TV HD" tvg-logo="" group-title="Movie",IN: &TV HD
-http://iya.mba:8888/siingkat/BMBJh/31876
-#EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png" group-title="Movie",KIX HD
-http://iya.mba:8888/siingkat/BMBJh/8
-#EXTINF:-1 tvg-id="Lifetime.id" tvg-name="LifeTime HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="Movie",LifeTime HD
-http://iya.mba:8888/siingkat/BMBJh/866
-#EXTINF:-1 tvg-id="" tvg-name="Red By HBO HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png" group-title="Movie",Red By HBO HD
-http://iya.mba:8888/siingkat/BMBJh/4832
-#EXTINF:-1 tvg-id="FX.id" tvg-name="Reserved" tvg-logo="" group-title="Movie",Reserved
-http://iya.mba:8888/siingkat/BMBJh/776
-#EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png" group-title="Movie",Star Chinese Movies HD
-http://iya.mba:8888/siingkat/BMBJh/780
-#EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies Legend" tvg-logo="https://www.infotelevisi.com/asset/images/tv/star_chinese_movies_legend.png" group-title="Movie",Star Chinese Movies Legend
-http://iya.mba:8888/siingkat/BMBJh/1859
-#EXTINF:-1 tvg-id="StarWorld.in" tvg-name="Star World" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Star_World_2016_logo.png/200px-Star_World_2016_logo.png" group-title="Movie",Star World
-http://iya.mba:8888/siingkat/BMBJh/381
-#EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="Movie",Thrill
-http://iya.mba:8888/siingkat/BMBJh/4
-#EXTINF:-1 tvg-id="WarnerTV.id" tvg-name="Warner TV ID HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="Movie",Warner TV ID HD
-http://iya.mba:8888/siingkat/BMBJh/1533
-#EXTINF:-1 tvg-id="" tvg-name="Zee Bioskop" tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png" group-title="Movie",Zee Bioskop
-http://iya.mba:8888/siingkat/BMBJh/7
 
 
 
@@ -641,53 +435,6 @@ http://77.83.117.60:8888/03_skynetsport2_480p/chunklist.m3u8
 http://77.83.117.60:8888/03_skynetsport3_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports" ,Skynetsport 4
 http://77.83.117.60:8888/03_skynetsport4_480p/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-id="beINSports1.id" tvg-name="BeIN Sport 1 ID" tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg" group-title="Sports",BeIN Sport 1 ID
-http://iya.mba:8888/siingkat/BMBJh/728
-#EXTINF:-1 tvg-id="beINSports2.id" tvg-name="BeIN Sport 2 ID" tvg-logo="https://imgbbb.com/images/2019/04/30/bein2.jpg" group-title="Sports",BeIN Sport 2 ID
-http://iya.mba:8888/siingkat/BMBJh/729
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Box Nation" tvg-logo="http://www.media15.tv/wp-content/uploads/2015/07/square-box-nation.jpg" group-title="Sports",Box Nation
-http://iya.mba:8888/siingkat/BMBJh/499
-#EXTINF:-1 tvg-id="" tvg-name="FIGHT BOX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwAM7tsGvgCbbv30YAXs2-QDPNkU4TNiQuQ7zAgrtcCA94ZWjd" group-title="Sports",FIGHT BOX
-http://iya.mba:8888/siingkat/BMBJh/501
-#EXTINF:-1 tvg-id="" tvg-name="Fight Sports" tvg-logo="https://imgbbb.com/images/2019/04/30/FightSportsLogo2x.png" group-title="Sports",Fight Sports
-http://iya.mba:8888/siingkat/BMBJh/784
-#EXTINF:-1 tvg-id="FOXSports1.my" tvg-name="Fox Sports 1 HD" tvg-logo="https://imgbbb.com/images/2019/04/30/foxsports.png" group-title="Sports",Fox Sports 1 HD
-http://iya.mba:8888/siingkat/BMBJh/51
-#EXTINF:-1 tvg-id="AandE.us" tvg-name="Reserved26628" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="Sports",Reserved26628
-http://iya.mba:8888/siingkat/BMBJh/26628
-#EXTINF:-1 tvg-id="ABC.au" tvg-name="Fox Sports 2 HD" tvg-logo="https://imgbbb.com/images/2019/04/30/fox-sport-21.png" group-title="Sports",Fox Sports 2 HD
-http://iya.mba:8888/siingkat/BMBJh/102
-#EXTINF:-1 tvg-id="AandE.us" tvg-name="Reserved26633" tvg-logo="https://imgbbb.com/images/2019/04/30/fox-sport-21.png" group-title="Sports",Reserved26633
-http://iya.mba:8888/siingkat/BMBJh/26633
-#EXTINF:-1 tvg-id="FOXSports3.my" tvg-name="Fox Sports 3 HD" tvg-logo="https://imgbbb.com/images/2019/04/30/Fox_Sports_3_logo.png" group-title="Sports",Fox Sports 3 HD
-http://iya.mba:8888/siingkat/BMBJh/101
-#EXTINF:-1 tvg-id="AandE.us" tvg-name="Reserved26634" tvg-logo="https://imgbbb.com/images/2019/04/30/Fox_Sports_3_logo.png" group-title="Sports",Reserved26634
-http://iya.mba:8888/siingkat/BMBJh/26634
-#EXTINF:-1 tvg-id="" tvg-name="Golf Channel FHD" tvg-logo="https://imgbbb.com/images/2019/04/30/golfchannel.png" group-title="Sports",Golf Channel FHD
-http://iya.mba:8888/siingkat/BMBJh/561
-#EXTINF:-1 tvg-id="" tvg-name="Lax Sports Network" tvg-logo="https://pbs.twimg.com/profile_images/1194697569693290496/mNsP3m67_400x400.jpg" group-title="Sports",Lax Sports Network
-http://iya.mba:8888/siingkat/BMBJh/25212
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-3_29.png" group-title="Sports",NBA TV HD
-http://iya.mba:8888/siingkat/BMBJh/3099
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV HD US" tvg-logo="http://static1.squarespace.com/static/57d836b1c534a5e4e6e7bf6f/57e0489e440243c6a9a6445c/5991a1df03596e7caf6a2028/1502722826069/2017+NBA+TV+Logo.jpg?format=1000w" group-title="Sports",NBA TV HD US
-http://iya.mba:8888/siingkat/BMBJh/243
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Ten Golf HD" tvg-logo="https://imgbbb.com/images/2019/04/30/TEN_GOLF_HD_1.png" group-title="Sports",Ten Golf HD
-http://iya.mba:8888/siingkat/BMBJh/224
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="https://s3-media4.fl.yelpcdn.com/bphoto/xuNr5M3m2xoUkfEAxFf8oA/ls.jpg" group-title="Sports",Tennis Channel
-http://iya.mba:8888/siingkat/BMBJh/482
-#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel 2" tvg-logo="https://mediacomunicazione.net/wp-content/uploads/2014/08/supertennis_logo.jpg" group-title="Sports",Tennis Channel 2
-http://iya.mba:8888/siingkat/BMBJh/19168
-#EXTINF:-1 tvg-id="" tvg-name="UFC FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/UFC_FIGHTPASS_LOGO-645x370.png" group-title="Sports",UFC FHD
-http://iya.mba:8888/siingkat/BMBJh/2401
-#EXTINF:-1 tvg-id="" tvg-name="UFC Live Event 1" tvg-logo="" group-title="Sports",UFC Live Event 1
-http://iya.mba:8888/siingkat/BMBJh/36400
-#EXTINF:-1 tvg-id="US: AE" tvg-name="WWE Network" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51EVQDiJh1L.png" group-title="Sports",WWE Network
-http://iya.mba:8888/siingkat/BMBJh/299
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1" tvg-logo="" group-title="Sports",Sky Sport F1
-http://iya.mba:8888/siingkat/BMBJh/37328
-
 
 
 
@@ -891,39 +638,6 @@ https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/index.m3u8
  
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="http://kamiselaluada.com/img/awani.png", Astro Awani 
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8    
-
-#EXTINF:-1 tvg-id="" tvg-name=".idku" tvg-logo="" group-title="Entertainment",.idku
-http://iya.mba:8888/siingkat/BMBJh/36730
-#EXTINF:-1 tvg-id="AsianFoodNetwork.my" tvg-name="AFN HD" tvg-logo="" group-title="Knowledge",AFN HD
-http://iya.mba:8888/siingkat/BMBJh/807
-#EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle HD" tvg-logo="https://www.bbcasia.com/brand/assets/images/channel-assets/bbc-lifestyle/about-logo-bbc-lifestyle.png" group-title="Lifestyle",BBC Lifestyle HD
-http://iya.mba:8888/siingkat/BMBJh/36766
-#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Entertainment HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="Entertainment",Blue Ant Entertainment HD
-http://iya.mba:8888/siingkat/BMBJh/1506
-#EXTINF:-1 tvg-id="" tvg-name="Citra Drama" tvg-logo="" group-title="Entertainment",Citra Drama
-http://iya.mba:8888/siingkat/BMBJh/905
-#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk6inbOH58fazeEgCQdAtua7ejGdoLdJWbPO_hHLNuO2qYZ4sx" group-title="Kids",DMAX
-http://iya.mba:8888/siingkat/BMBJh/483
-#EXTINF:-1 tvg-id="" tvg-name="Eat & Go" tvg-logo="" group-title="Entertainment",Eat & Go
-http://iya.mba:8888/siingkat/BMBJh/26979
-#EXTINF:-1 tvg-id="" tvg-name="Every Good Game" tvg-logo="" group-title="Entertainment",Every Good Game
-http://iya.mba:8888/siingkat/BMBJh/921
-#EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="https://www.licenseindia.com/wp-content/uploads/2015/05/fashion-tv.gif" group-title="Lifestyle",Fashion TV
-http://iya.mba:8888/siingkat/BMBJh/280
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png" group-title="Knowledge",HGTV
-http://iya.mba:8888/siingkat/BMBJh/537
-#EXTINF:-1 tvg-id="" tvg-name="Insert" tvg-logo="https://www.transvision.co.id/img/channel/insert.png" group-title="Entertainment",Insert
-http://iya.mba:8888/siingkat/BMBJh/1763
-#EXTINF:-1 tvg-id="" tvg-name="NHK World Japan" tvg-logo="" group-title="Knowledge",NHK World Japan
-http://iya.mba:8888/siingkat/BMBJh/785
-#EXTINF:-1 tvg-id="" tvg-name="TLC English" tvg-logo="https://i.imgur.com/VuFFsjk.png" group-title="Knowledge",TLC English
-http://iya.mba:8888/siingkat/BMBJh/351
-#EXTINF:-1 tvg-id="ABC.au" tvg-name="TLC HD" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/tlc-hd-world-large.jpg" group-title="Knowledge",TLC HD
-http://iya.mba:8888/siingkat/BMBJh/352
-#EXTINF:-1 tvg-id="" tvg-name="TV 5 Monde Asie" tvg-logo="" group-title="Knowledge",TV 5 Monde Asie
-http://iya.mba:8888/siingkat/BMBJh/786
-#EXTINF:-1 tvg-id="WakuWakuJapan.id" tvg-name="Waku Waku Japan HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="Entertainment",Waku Waku Japan HD
-http://iya.mba:8888/siingkat/BMBJh/717
 
 
 
