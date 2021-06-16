@@ -62,7 +62,7 @@ https://r2---sn-2uuxa3vh-jb3y.googlevideo.com/videoplayback?expire=1619350524&ei
 #EXTINF:-1, group-title="Entertainment" tvg-logo="https://telegra.ph/file/748edf4c2c677532e7ed8.png",tvN EN
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/r_hHy-0yyOqMWkG_USKHWkYIjvA=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6362/9869f1.png" tvg-id="RIYAN.c86c4034ca638aa5b81c00c37985f83c.SHINTA" tvg-name" TVN" group-title="Entertainment", TVN
-http://zalogitv.tech:8080/Rizal/Rizal/1400
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6362_720p/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Jakarta Globe
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",MCC
@@ -70,7 +70,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9430f215-8ccb-4
  
  
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/axn.png" group-title="Entertainment", AXN 
-http://rr.dens.tv/h/h141/01.m3u8                       
+http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8                      
  
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kix.png" group-title="Entertainment", Kix HD
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/playlist.m3u8
@@ -90,7 +90,7 @@ http://210.210.155.35/uq2663/h/h08/index.m3u8
 http://210.210.155.35/session/8d789368-3130-11eb-8016-b82a72d63267/uq2663/h/h19/01.m3u8                       
  
 #EXTINF:-1 tvg-id="sone" tvg-logo="http://kamiselaluada.com/img/sonyone.png" group-title="Entertainment", Sony One 
-http://210.210.155.35/session/a5d39872-3130-11eb-a769-b82a72d63267/uq2663/h/h143/01.m3u8
+http://185.180.221.194:8278/streams/d/SetOne/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kbsworld.png" group-title="Entertainment", KBS World 
 #EXTINF:-1 group-title="Entertainment", K Drama              
@@ -155,18 +155,6 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist
 
 
 
-#EXTINF:70 group-title="Euro Test",Youtube Chanel Santai Bareng IPTV
-https://r2---sn-2uuxa3vh-jb3y.googlevideo.com/videoplayback?expire=1619350524&ei=nP-EYLjZKqSgjuMPkbm9kAk&ip=36.70.38.153&id=o-AJqS6K-XyG6fajgVE7HpPdYyEu4Q_crhXm3sA9l0j7G4&itag=22&source=youtube&requiressl=yes&mh=Vl&mm=31%2C29&mn=sn-2uuxa3vh-jb3y%2Csn-npoe7nek&ms=au%2Crdu&mv=m&mvi=2&pl=20&initcwndbps=580000&vprv=1&mime=video%2Fmp4&ns=h8HEdSz4b_X3789UfP_QjmUF&ratebypass=yes&dur=70.426&lmt=1619009238418678&mt=1619328761&fvip=2&fexp=24001373%2C24007246&c=WEB&txp=6216222&n=kUCPgIVpW669ewmcpr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgFnqpFx2ZaiweervtgfzMPn48tEQclXgbQke-NVOSQVACIBLqdsEO1ATQpVkkwCzSivgWUdBxHhnxH2zdqXm_fFDw&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgWjbvjLiz3JwQ6VMJ2lZxjn0-HEeyju9nRz0kCFPbpJ4CIQC2LkEKSFt1s4840qAkcHyg1qT7znfoVfkbDk2T9mS4yw%3D%3D
-#EXTINF:-1 group-title="Euro Test",euro chanel 1
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Euro Test",euro chanel 2
-https://chostv.mobie.in/choos/sports/matchqy1.m3u8
-#EXTINF:-1 group-title="Euro Test",euro chanel 3
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31194
-#EXTINF:-1 group-title="Euro Test",euro chanel 4
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
-
-
 
 #EXTINF:70 group-title="Kids",Youtube Chanel Santai Bareng IPTV
 https://r2---sn-2uuxa3vh-jb3y.googlevideo.com/videoplayback?expire=1619350524&ei=nP-EYLjZKqSgjuMPkbm9kAk&ip=36.70.38.153&id=o-AJqS6K-XyG6fajgVE7HpPdYyEu4Q_crhXm3sA9l0j7G4&itag=22&source=youtube&requiressl=yes&mh=Vl&mm=31%2C29&mn=sn-2uuxa3vh-jb3y%2Csn-npoe7nek&ms=au%2Crdu&mv=m&mvi=2&pl=20&initcwndbps=580000&vprv=1&mime=video%2Fmp4&ns=h8HEdSz4b_X3789UfP_QjmUF&ratebypass=yes&dur=70.426&lmt=1619009238418678&mt=1619328761&fvip=2&fexp=24001373%2C24007246&c=WEB&txp=6216222&n=kUCPgIVpW669ewmcpr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgFnqpFx2ZaiweervtgfzMPn48tEQclXgbQke-NVOSQVACIBLqdsEO1ATQpVkkwCzSivgWUdBxHhnxH2zdqXm_fFDw&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgWjbvjLiz3JwQ6VMJ2lZxjn0-HEeyju9nRz0kCFPbpJ4CIQC2LkEKSFt1s4840qAkcHyg1qT7znfoVfkbDk2T9mS4yw%3D%3D
@@ -212,6 +200,8 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
 https://r2---sn-2uuxa3vh-jb3y.googlevideo.com/videoplayback?expire=1619350524&ei=nP-EYLjZKqSgjuMPkbm9kAk&ip=36.70.38.153&id=o-AJqS6K-XyG6fajgVE7HpPdYyEu4Q_crhXm3sA9l0j7G4&itag=22&source=youtube&requiressl=yes&mh=Vl&mm=31%2C29&mn=sn-2uuxa3vh-jb3y%2Csn-npoe7nek&ms=au%2Crdu&mv=m&mvi=2&pl=20&initcwndbps=580000&vprv=1&mime=video%2Fmp4&ns=h8HEdSz4b_X3789UfP_QjmUF&ratebypass=yes&dur=70.426&lmt=1619009238418678&mt=1619328761&fvip=2&fexp=24001373%2C24007246&c=WEB&txp=6216222&n=kUCPgIVpW669ewmcpr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgFnqpFx2ZaiweervtgfzMPn48tEQclXgbQke-NVOSQVACIBLqdsEO1ATQpVkkwCzSivgWUdBxHhnxH2zdqXm_fFDw&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgWjbvjLiz3JwQ6VMJ2lZxjn0-HEeyju9nRz0kCFPbpJ4CIQC2LkEKSFt1s4840qAkcHyg1qT7znfoVfkbDk2T9mS4yw%3D%3D 
 #EXTINF:0 group-title="Movies",FoxMovies
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
+#EXTINF:0 group-title="Movies",Fox Action Movies
+http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 #EXTINF:0 group-title="Movies",Foxlife
 http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
 #EXTINF:0 group-title="Movies",FoxFamilyMovie
@@ -222,29 +212,29 @@ http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
  
 #EXTINF:-1 group-title="Movies",HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+http://eroz84.wap.sh/movies/hbo.m3u8
 #EXTINF:-1 group-title="Movies",HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8?token=ShareExt
 #EXTINF:-1 group-title="Movies",HBO Signature
 https://www.dropbox.com/s/dllbdpdkssknyjp/HBOSIGX.m3u8?dl=1 
 #EXTINF:-1 group-title="Movies",HBO Signature
-http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
+http://eroz84.wap.sh/movies/hbo_sig.m3u8
 #EXTINF:-1 group-title="Movies",HBO Hits
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vSElUUy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjE2ODU5MDUwfX19XX0_&Signature=CSvs2lSeOnE8Y8ik9hFU2AmsTv9qv82LxOza9BP-PcnkhTCTA1yWKYj2ZZkrXAmHjLVsv5ZPRhR3VY6Mj~6hMUd0Yjz9CxxN2z601SJXzhrXqcz95DZkZivVPNbVLkztIeP31pJz37i4FPVDfedvRJWB1k1aVuxPTKs7STTPTLSLRReBbeE-TE9D72Gz20a5vs1bJeRVDqqTNWxqeoouK0XRamXQrGm0RUl6-CXQgdbe48N0selurGFoPcjW9m8aJtbL9NvUfdhuCcunhReM~I02sINjOTFr1xnzmAOb~xRccvCyfvFTr0VTHGDE07ATsPWafL~c0geuKu9XKh3NLA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+http://eroz84.wap.sh/movies/hbo_hits.m3u8
 #EXTINF:-1 group-title="Movies",HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8 
 #EXTINF:-1 group-title="Movies",HBO Family
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vRkFNSUxZLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTY4NTkwNTB9fX1dfQ__&Signature=WmAH4TlOSLquNm9os2qzNm9DI35GAceSQ9ac7CPmWkZ~rUNr8reKyLradmMKuHYQF4d68HmOwVGF5WM2rsn3POJDe4t8wR9xnsIITgslI9wWGjpUWOGEeDf-g88kTUoeDwi-YwlW4MdgKMGSa~OpdDm19XygFpit2IlmpZi3KtBl7p~vxrlx30SjOdC06Bj6vC~aUX5bFO2~L9osDwlhREJytLYDfPN8hf2w8T3vnEsjoYuueMvGZUk0nxDKXj3BMrHv2C-w8Hfx83PIyJ5Qp1dIfWBXXGmOBELzvyh7f04G0gLWr8I-mS6yQDG-v~ON5CnO0FmloihQtCaEaABUIg__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+http://eroz84.wap.sh/movies/hbo_fam.m3u8
 #EXTINF:-1 group-title="Movies",HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #EXTINF:-1 group-title="Movies",CINEMAX
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTINF:-1 group-title="Movies",CINEMAX
-https://www.dropbox.com/s/nm9vobcwjc1wh6i/CINEMAXX.m3u8?dl=1 
+http://eroz84.wap.sh/movies/cinemax.m3u8 
 #EXTINF:-1 group-title="Movies",RED by HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 group-title="Movies",RED by HBO
-https://www.dropbox.com/s/1wmlsklnt5xcfie/REDX.m3u8?dl=1 
+http://eroz84.wap.sh/movies/hbo_red.m3u8
 #EXTINF:0 group-title="Movies",CelestialMovie 
 http://rr2.dens.tv/s/s33/01.m3u8
 #EXTINF:-1 group-title="Movies",Bioskop Indonesia
@@ -269,7 +259,7 @@ http://rr2.dens.tv/s/s33/01.m3u8
 http://rr2.dens.tv/s/s32/01.m3u8                       
  
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/thrill.png" group-title="Movies", Thrill 
-http://rr2.dens.tv/s/s34/01.m3u8                       
+http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8               
  
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mycn.png" group-title="Movies", MyCinema 
 http://rr.dens.tv/h/h90/S4/mnf.m3u8   
@@ -278,8 +268,7 @@ http://rr.dens.tv/h/h18/01.m3u8
 #EXTINF:-1, group-title="Movies" tvg-logo="https://telegra.ph/file/d279b9361d1077d0cdd5b.png",Warner TV 
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6848
 #EXTINF:-1 group-title="Movies",Warner TV
-http://bonev2.xyz/playlist/usee-warner-new-bonetv.m3u8
-
+http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
 
 
 #EXTINF:70 group-title="Religi",Youtube Chanel Santai Bareng IPTV
@@ -334,6 +323,23 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4
 rtmp://118.97.183.222/discover/muhammadiyahtv
 #EXTINF:-1 group-title="Religi",Map Palembang TV
 https://re1.siar.us/maptv/live/playlist.m3u8
+
+
+
+
+
+#EXTINF:70 group-title="Euro Test",Youtube Chanel Santai Bareng IPTV
+https://r2---sn-2uuxa3vh-jb3y.googlevideo.com/videoplayback?expire=1619350524&ei=nP-EYLjZKqSgjuMPkbm9kAk&ip=36.70.38.153&id=o-AJqS6K-XyG6fajgVE7HpPdYyEu4Q_crhXm3sA9l0j7G4&itag=22&source=youtube&requiressl=yes&mh=Vl&mm=31%2C29&mn=sn-2uuxa3vh-jb3y%2Csn-npoe7nek&ms=au%2Crdu&mv=m&mvi=2&pl=20&initcwndbps=580000&vprv=1&mime=video%2Fmp4&ns=h8HEdSz4b_X3789UfP_QjmUF&ratebypass=yes&dur=70.426&lmt=1619009238418678&mt=1619328761&fvip=2&fexp=24001373%2C24007246&c=WEB&txp=6216222&n=kUCPgIVpW669ewmcpr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgFnqpFx2ZaiweervtgfzMPn48tEQclXgbQke-NVOSQVACIBLqdsEO1ATQpVkkwCzSivgWUdBxHhnxH2zdqXm_fFDw&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgWjbvjLiz3JwQ6VMJ2lZxjn0-HEeyju9nRz0kCFPbpJ4CIQC2LkEKSFt1s4840qAkcHyg1qT7znfoVfkbDk2T9mS4yw%3D%3D
+#EXTINF:-1 group-title="Euro Test",euro chanel 1
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Euro Test",euro chanel 2
+https://chostv.mobie.in/choos/sports/matchqy1.m3u8
+#EXTINF:-1 group-title="Euro Test",euro chanel 3
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31194
+#EXTINF:-1 group-title="Euro Test",euro chanel 4
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+
+
 
 
 
