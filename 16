@@ -160,6 +160,8 @@ https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-6550
 http://a92cb231-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/6540154/playlist.m3u8?authType=IP_BASED_IDENTITY&appType=12&appVersion=1&cdnHost=uhs-akamai.ustream.tv/&sgn=e02c631056eedfa1f9ba417db7dbc9057065fe72
 #EXTINF:-1  group-title="Knowledge",Eat&Go
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=eatgo&bandwidth=default&sync=0
+#EXTINF:-1  group-title="Knowledge",TVKu
+http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 group-title="Knowledge",SILENCE TV
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8 
 
