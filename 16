@@ -54,6 +54,7 @@ http://playlist.urfan.web.id/qwr9ew/s/s10/01.m3u8
 http://playlist.urfan.web.id/x6bnqe/h/h12/01.m3u8
 #EXTINF:-1 group-title="Nasional",TVRI Sport
 http://playlist.urfan.web.id/qwr9ew/s/s107/02.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 #EXTINF:-1 group-title="Nasional",Inews
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=e17a886efc21fa45b9dc49a17c29dcf1e0cf1f47118daebc5b16269099ad7347
 #EXTINF:-1 group-title="Nasional",MyTV
@@ -583,4 +584,8 @@ http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
 http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 #EXTINF:-1 group-title="Olimpiade Tokyo",Astro Arena
 http://iptv.tvmalaysia.cc:80/139664/139664/6707
+#EXTINF:-1 group-title="Olimpiade Tokyo",Astro Sport 1
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
+#EXTINF:-1 group-title="Olimpiade Tokyo",Astro Sport 1
+http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 
