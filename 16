@@ -76,6 +76,7 @@ http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
 #EXTINF:-1 group-title="Entertainment",ONE
 http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
 #EXTINF:-1 group-title="Entertainment",GEM
+http://210.210.155.35:80/uq2663/h/h19/01.m3u8
 http://playlist.urfan.web.id/uq2663/h/h19/01.m3u8
 
 #EXTINF:-1 group-title="Entertainment",AXN
@@ -162,8 +163,8 @@ http://iptv.tvmalaysia.cc:80/139664/139664/7078
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1  group-title="Knowledge",Love Nature 4K
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1  group-title="Knowledge",Smithsonian
-................................................
+#EXTINF:-1  group-title="Knowledge",Popular since
+http://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
 #EXTINF:-1  group-title="Knowledge",Nasa
 http://a92cb231-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/6540154/playlist.m3u8?authType=IP_BASED_IDENTITY&appType=12&appVersion=1&cdnHost=uhs-akamai.ustream.tv/&sgn=e02c631056eedfa1f9ba417db7dbc9057065fe72
 #EXTINF:-1  group-title="Knowledge",Eat&Go
@@ -213,6 +214,7 @@ http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h
 http://210.210.155.35:80/session/05ca7a1e-5492-11eb-901e-b82a72d63267/dr9445/h/h02/01.m3u8
 #EXTINF:-1 group-title="Kids",Cartoon Network
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=cartoonnetwork&bandwidth=default&sync=0
+http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Nick Junior
 http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://distv.net/icons/nick.png" group-title="Kids", NICK 
@@ -225,8 +227,8 @@ http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
 http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
 #EXTINF:-1 group-title="Kids",Boomerang
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=boomerang&bandwidth=default&sync=0
-#EXTINF:-1 group-title="Kids",Cartoon Net
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=cartoonnetwork&bandwidth=default&sync=0
+http://185.180.221.194:8278/streams/d/Boomerang/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Youtube Chanel Santai Bareng IPTV
@@ -249,17 +251,17 @@ http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
  
 #EXTINF:-1 group-title="Movies",HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+https://gratismkctv.net/film/hbo.m3u8
 #EXTINF:-1 group-title="Movies",HBO
-https://raw.githubusercontent.com/angahjee1994/tv/master/hbo.m3u8
+http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 group-title="Movies",HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vU0lHLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTY4NTkwNTB9fX1dfQ__&Signature=XPcUvt22cPfWlaTvZIFVTopWXz-gcftvZHtYimxZfYl90uif8HFUSu8UFy04VNbRlMKlUwPCfBP-04dw8nM~t4f~7VB5b1L12FsphQy-0DUoRV5W9mF8mm5rab5xFaBbGChVFkvIqfNzae~6zIMAE0LpPukmSYrN-jozArwLO0tTTNpAj0IGM9cHikREQYA-yK5TYA18OvpTsC4MxAbtmYiKnPmQIsYDqgvLKhiQRwCpJRfTWQmkdrOG3wE~B~8htVFuQ9OxukjuiofDQGQPYkp5hP6H2SYWhxNFzS~GBBKAEieJk4gCb7~rXSIaQ9h9OMubcpC4vx9h5S~Sj1-Img__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 group-title="Movies",HBO Signature
-https://raw.githubusercontent.com/angahjee1994/tv/master/hbosig.m3u8
+http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 #EXTINF:-1 group-title="Movies",HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vSElUUy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjE2ODU5MDUwfX19XX0_&Signature=CSvs2lSeOnE8Y8ik9hFU2AmsTv9qv82LxOza9BP-PcnkhTCTA1yWKYj2ZZkrXAmHjLVsv5ZPRhR3VY6Mj~6hMUd0Yjz9CxxN2z601SJXzhrXqcz95DZkZivVPNbVLkztIeP31pJz37i4FPVDfedvRJWB1k1aVuxPTKs7STTPTLSLRReBbeE-TE9D72Gz20a5vs1bJeRVDqqTNWxqeoouK0XRamXQrGm0RUl6-CXQgdbe48N0selurGFoPcjW9m8aJtbL9NvUfdhuCcunhReM~I02sINjOTFr1xnzmAOb~xRccvCyfvFTr0VTHGDE07ATsPWafL~c0geuKu9XKh3NLA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 group-title="Movies",HBO Hits
-https://raw.githubusercontent.com/angahjee1994/tv/master/hbohit.m3u8
+http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 #EXTINF:-1 group-title="Movies",HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vRkFNSUxZLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTY4NTkwNTB9fX1dfQ__&Signature=WmAH4TlOSLquNm9os2qzNm9DI35GAceSQ9ac7CPmWkZ~rUNr8reKyLradmMKuHYQF4d68HmOwVGF5WM2rsn3POJDe4t8wR9xnsIITgslI9wWGjpUWOGEeDf-g88kTUoeDwi-YwlW4MdgKMGSa~OpdDm19XygFpit2IlmpZi3KtBl7p~vxrlx30SjOdC06Bj6vC~aUX5bFO2~L9osDwlhREJytLYDfPN8hf2w8T3vnEsjoYuueMvGZUk0nxDKXj3BMrHv2C-w8Hfx83PIyJ5Qp1dIfWBXXGmOBELzvyh7f04G0gLWr8I-mS6yQDG-v~ON5CnO0FmloihQtCaEaABUIg__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 group-title="Movies",HBO Family
