@@ -470,6 +470,28 @@ https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 
 
+
+#EXTINF:-1 group-title="Olimpiade Tokyo" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Youtube Chanel Santai Bareng IPTV
+https://r3---sn-2uuxa3vh-jb3y.googlevideo.com/videoplayback?expire=1624368496&ei=EJHRYMrSJ76Gz7sP7_C54AM&ip=180.243.12.85&id=o-AJN_aqGW_C2E2UEn4WeFGeowucemgS1zbqu-wVO9ewrS&itag=22&source=youtube&requiressl=yes&mh=1_&mm=31%2C29&mn=sn-2uuxa3vh-jb3y%2Csn-npoe7nl6&ms=au%2Crdu&mv=m&mvi=3&pcm2cms=yes&pl=20&initcwndbps=603750&vprv=1&mime=video%2Fmp4&ns=uIHFUpOg2U6RvUTqccSMfD0F&cnr=14&ratebypass=yes&dur=12.353&lmt=1624110376073887&mt=1624346444&fvip=5&fexp=24001373%2C24007246&c=WEB&txp=6211224&n=23401SHWlzq9fFlbD&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhANmuj9SclhU1qWbPzN0i9cTwTP3iolZS0YMPZ33UIIZ6AiBTSPm0wIIGXQlVKghedAb6mY-fI_3K9-pvK76C1LNw7w%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgFYUtIcaN9KUia75NdAP3juam_s7JTiztTOT7tQBPHIkCIQD4LpRjtgJUH0Ip54Fc-EVhsoPv47Yp825uDgGg-_ftNg%3D%3D
+
+#EXTINF:-1 group-title="Olimpiade Tokyo" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Playlist Ini Gratis, Tidak Untuk Diperjual Belikan
+https://youtu.be/Hi7ybh87_e8 
+
+#EXTINF:-1 group-title="Olimpiade Tokyo",Match
+https://95-213-224-169.livesports24.online/ooomatch.m3u8
+#EXTINF:-1 group-title="Olimpiade Tokyo",Sukan
+http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
+#EXTINF:-1 group-title="Olimpiade Tokyo",Sukan 2
+http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+#EXTINF:-1 group-title="Olimpiade Tokyo",Astro Arena
+http://iptv.tvmalaysia.cc:80/139664/139664/6707
+#EXTINF:-1 group-title="Olimpiade Tokyo",Astro Sport 1
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
+#EXTINF:-1 group-title="Olimpiade Tokyo",Astro Sport 1
+http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+
+
+
 #EXTINF:-1 group-title="Astro TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Youtube Chanel Santai Bareng IPTV
 https://r3---sn-2uuxa3vh-jb3y.googlevideo.com/videoplayback?expire=1624368496&ei=EJHRYMrSJ76Gz7sP7_C54AM&ip=180.243.12.85&id=o-AJN_aqGW_C2E2UEn4WeFGeowucemgS1zbqu-wVO9ewrS&itag=22&source=youtube&requiressl=yes&mh=1_&mm=31%2C29&mn=sn-2uuxa3vh-jb3y%2Csn-npoe7nl6&ms=au%2Crdu&mv=m&mvi=3&pcm2cms=yes&pl=20&initcwndbps=603750&vprv=1&mime=video%2Fmp4&ns=uIHFUpOg2U6RvUTqccSMfD0F&cnr=14&ratebypass=yes&dur=12.353&lmt=1624110376073887&mt=1624346444&fvip=5&fexp=24001373%2C24007246&c=WEB&txp=6211224&n=23401SHWlzq9fFlbD&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhANmuj9SclhU1qWbPzN0i9cTwTP3iolZS0YMPZ33UIIZ6AiBTSPm0wIIGXQlVKghedAb6mY-fI_3K9-pvK76C1LNw7w%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgFYUtIcaN9KUia75NdAP3juam_s7JTiztTOT7tQBPHIkCIQD4LpRjtgJUH0Ip54Fc-EVhsoPv47Yp825uDgGg-_ftNg%3D%3D
 
@@ -800,26 +822,6 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/7201
 #EXTINF:-1 group-title="Astro TV | Kids",Universal Kids FHD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7205
 
-
-
-#EXTINF:-1 group-title="Olimpiade Tokyo" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Youtube Chanel Santai Bareng IPTV
-https://r3---sn-2uuxa3vh-jb3y.googlevideo.com/videoplayback?expire=1624368496&ei=EJHRYMrSJ76Gz7sP7_C54AM&ip=180.243.12.85&id=o-AJN_aqGW_C2E2UEn4WeFGeowucemgS1zbqu-wVO9ewrS&itag=22&source=youtube&requiressl=yes&mh=1_&mm=31%2C29&mn=sn-2uuxa3vh-jb3y%2Csn-npoe7nl6&ms=au%2Crdu&mv=m&mvi=3&pcm2cms=yes&pl=20&initcwndbps=603750&vprv=1&mime=video%2Fmp4&ns=uIHFUpOg2U6RvUTqccSMfD0F&cnr=14&ratebypass=yes&dur=12.353&lmt=1624110376073887&mt=1624346444&fvip=5&fexp=24001373%2C24007246&c=WEB&txp=6211224&n=23401SHWlzq9fFlbD&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhANmuj9SclhU1qWbPzN0i9cTwTP3iolZS0YMPZ33UIIZ6AiBTSPm0wIIGXQlVKghedAb6mY-fI_3K9-pvK76C1LNw7w%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgFYUtIcaN9KUia75NdAP3juam_s7JTiztTOT7tQBPHIkCIQD4LpRjtgJUH0Ip54Fc-EVhsoPv47Yp825uDgGg-_ftNg%3D%3D
-
-#EXTINF:-1 group-title="Olimpiade Tokyo" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Playlist Ini Gratis, Tidak Untuk Diperjual Belikan
-https://youtu.be/Hi7ybh87_e8 
-
-#EXTINF:-1 group-title="Olimpiade Tokyo",Match
-https://95-213-224-169.livesports24.online/ooomatch.m3u8
-#EXTINF:-1 group-title="Olimpiade Tokyo",Sukan
-http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
-#EXTINF:-1 group-title="Olimpiade Tokyo",Sukan 2
-http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
-#EXTINF:-1 group-title="Olimpiade Tokyo",Astro Arena
-http://iptv.tvmalaysia.cc:80/139664/139664/6707
-#EXTINF:-1 group-title="Olimpiade Tokyo",Astro Sport 1
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
-#EXTINF:-1 group-title="Olimpiade Tokyo",Astro Sport 1
-http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Film Bioskop" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Youtube Chanel Santai Bareng IPTV
