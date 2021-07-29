@@ -28,3 +28,23 @@ http://103.157.237.18:8000/play/613
 http://103.157.237.18:8000/play/615
 #EXTINF:0 group-title="Olimpiade Tokyo" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Sony Six
 http://103.157.237.18:8000/play/617
+
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Olimpiade Tokyo", BEIN  1 HD
+http://31.220.41.90:8081/live/fr-beinOlimpiade Tokyo1.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Olimpiade Tokyo", BEIN  2 HD
+http://31.220.41.90:8081/live/fr-beinOlimpiade Tokyo2.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Olimpiade Tokyo", BEIN  3 HD
+http://31.220.41.90:8081/live/fr-beinOlimpiade Tokyo3.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Olimpiade Tokyo", BEIN  4 HD
+http://stream.tvtap.live:8081/live/bein4.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Olimpiade Tokyo", BEIN  5 HD
+http://stream.tvtap.live:8081/live/bein5.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Olimpiade Tokyo", BEIN  6 HD
+http://stream.tvtap.live:8081/live/bein6.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Olimpiade Tokyo", 7 HD
+http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-Olimpiade Tokyos-logo-61C099EBD7-seeklogo.com.png" group-title="Olimpiade Tokyo" ,Bein English HD1 
+http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-Olimpiade Tokyos-logo-61C099EBD7-seeklogo.com.png" group-title="Olimpiade Tokyo" ,Bein English HD2
+http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
