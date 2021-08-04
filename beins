@@ -30,6 +30,39 @@ https://m3u-editor.com/serve/lahsiapa/347944858
 https://m3u-editor.com/serve/lahsiapa/347944859
 #EXTINF: -1 tvg-id="OLY12" tvg-name="Chanel 12" tvg-logo="https://i.postimg.cc/brMKxJBY/images.png" group-title="Olimpiade Tokyo", Chanel 12
 https://m3u-editor.com/serve/lahsiapa/347944860
+#EXTINF:-1 tvg-id="OLY1" tvg-name="OLYMPIC AIS  1" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Olimpiade Tokyo",OLYMPIC AIS  1
+http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="OLY2" tvg-name="OLYMPIC AIS  2" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Olimpiade Tokyo",OLYMPIC AIS  2
+http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel2/playlist.m3u8
+#EXTINF:-1 tvg-id="OLY3" tvg-name="OLYMPIC 3" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Olimpiade Tokyo",OLYMPIC AIS  3
+http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel3/playlist.m3u8
+#EXTINF:-1 tvg-id="OLY4" tvg-name="OLYMPIC AIS  4" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Olimpiade Tokyo",OLYMPIC AIS  4
+http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel4/playlist.m3u8
+#EXTINF:-1 tvg-id="OLY5" tvg-name="OLYMPIC AIS  5" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Olimpiade Tokyo",OLYMPIC AIS  5
+http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel5/playlist.m3u8
+#EXTINF:-1 tvg-id="OLY6" tvg-name="OLYMPIC AIS  6" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Olimpiade Tokyo",OLYMPIC AIS  6
+http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel6/playlist.m3u8
+#EXTINF:-1 tvg-id="OLY7" tvg-name="OLYMPIC AIS  7" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Olimpiade Tokyo",OLYMPIC AIS  7
+http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel7/playlist.m3u8
+#EXTINF:-1 tvg-id="OLY8" tvg-name="OLYMPIC AIS  8" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Olimpiade Tokyo",OLYMPIC AIS  8
+http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel8/playlist.m3u8
+#EXTINF:-1 tvg-id="OLY9" tvg-name="OLYMPIC AIS  9" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Olimpiade Tokyo",OLYMPIC AIS  9
+http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel9/playlist.m3u8
+#EXTINF:-1 tvg-id="OLY10" tvg-name="OLYMPIC AIS  10" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Olimpiade Tokyo",OLYMPIC AIS  10
+http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel10/playlist.m3u8
+#EXTINF:-1 tvg-id="OLY11" tvg-name="OLYMPIC AIS  11" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Olimpiade Tokyo",OLYMPIC AIS  11
+http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel11/playlist.m3u8
+#EXTINF:-1 tvg-id="OLY12" tvg-name="OLYMPIC AIS  12" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Olimpiade Tokyo",OLYMPIC AIS  12
+http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel12/playlist.m3u8
+#EXTINF:-1 tvg-id="OLY13" tvg-name="OLYMPIC AIS  13" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Olimpiade Tokyo",OLYMPIC AIS  13
+http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel13/playlist.m3u8
+#EXTINF:-1 tvg-id="OLY14" tvg-name="OLYMPIC AIS  14" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Olimpiade Tokyo",OLYMPIC AIS  14
+http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel14/playlist.m3u8
+#EXTINF:-1 tvg-id="OLY15" tvg-name="OLYMPIC AIS  15" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Olimpiade Tokyo",OLYMPIC AIS  15
+http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel15/playlist.m3u8
+#EXTINF:-1 tvg-id="OLY16" tvg-name="OLYMPIC AIS  16" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Olimpiade Tokyo",OLYMPIC AIS  16
+http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel16/playlist.m3u8
+
 #EXTINF:-1 group-title="Olimpiade Tokyo" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Match
 https://95-213-224-169.livesports24.online/ooomatch.m3u8
 #EXTINF:-1 group-title="Olimpiade Tokyo" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Sukan
